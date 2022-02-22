@@ -1,10 +1,19 @@
 # Frogle
 
-A script to customize your Wordle share message on iOS!
+A script to customize your Wordle share message!
+
+![Example image of frogle](https://github.com/leobrunette/Frogle/raw/main/assests/example-image-frogle.jpg)
 
 ## Installation
 
-Download the file [frogle.shortcut](https://github.com/leobrunette/Frogle/raw/main/frogle.shortcut) to add to iOS.
+### iOS
+Download the file [frogle.shortcut](https://github.com/leobrunette/Frogle/raw/main/frogle.shortcut) from right here to add to iOS.
+
+![Image of frogle download](https://github.com/leobrunette/Frogle/raw/main/assests/)
+
+Open safari downloads and open the frogle.shortcut file to add to your shortcuts.
+
+![Image of safari downloads](https://github.com/leobrunette/Frogle/main/assests/)
 
 ## Usage
 
